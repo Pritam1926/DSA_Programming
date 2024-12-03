@@ -17,7 +17,6 @@ void hashInsert(int value, int a[]){
   }
 }
 
-// Display Operation
 void hashDisplay(int a[]){
 	int i;
   if(count==1){
